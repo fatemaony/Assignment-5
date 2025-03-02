@@ -36,6 +36,6 @@ function updateTask(buttonId, increaseElementId, decreaseElementId,textId) {
 updateTask('completed-btn-1', 'taskIncrease', 'taskDecrease','Fix Mobile Button Issue');
 updateTask('completed-btn-2', 'taskIncrease', 'taskDecrease','Add Dark Mode');
 updateTask('completed-btn-3', 'taskIncrease', 'taskDecrease','Optimize  Home page');
-updateTask('completed-btn-4', 'taskIncrease', 'taskDecrease', 'Add new emoji');
+updateTask('completed-btn-4', 'taskIncrease', 'taskDecrease', 'Add new emoji 🤲');
 updateTask('completed-btn-5', 'taskIncrease', 'taskDecrease','Integrate OpenAI API');
 updateTask('completed-btn-6', 'taskIncrease', 'taskDecrease','Improve Job searching');
